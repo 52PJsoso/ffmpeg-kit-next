@@ -1,0 +1,26 @@
+[
+    {
+        "archive": "cpu-features.tar.gz",
+        "sha256": "7ac0ab82f9b002465c8d86b7714cfd2b03f8e8637ab76b32925036bdfe2e2f20",
+        "baseCommit": "81d13c49649f0714dd41fb56bb246398b6584085",
+        "includesLocalChanges": true
+    },
+    {
+        "archive": "ffmpeg.tar.gz",
+        "sha256": "045582598e87194e9d3deba0c512d0d8c7558da3eaf6288f930492f57593f847",
+        "baseCommit": "bf1b838f2ab88b4f8fd83443325c782ea0e0f7fa",
+        "includesLocalChanges": true
+    },
+    {
+        "archive": "lame.tar.gz",
+        "sha256": "cdc4edd062c4a4d3b2a9f24085e206266d66a2056b6ba8dec80e57e993afd872",
+        "baseCommit": "b8f6b9e0fdbfb6fecfc106e8d24af240eac44b22",
+        "includesLocalChanges": true
+    },
+    {
+        "archive": "libiconv.tar.gz",
+        "sha256": "a37cb3d950f9d3a416e016f2775a03bdbe1c0c4a39d4af63263e7f9650fd1f2a",
+        "baseCommit": "4b9c27bec873392533dd3ef309cd62962a644e18",
+        "includesLocalChanges": true
+    }
+]
